@@ -1,4 +1,4 @@
-# Joystick-Adapter_9_to_15_Pin
+# Joystick-Adapter 9 to  15 Pin
 
 Arduino program under [USB-Gameport_Adapter](https://github.com/necroware/gameport-adapter)
 
