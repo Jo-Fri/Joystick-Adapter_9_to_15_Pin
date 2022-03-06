@@ -1,6 +1,6 @@
 # Joystick-Adapter_9-15
 
-Arduino part from [USB-Gameport_Adapter](https://github.com/necroware/gameport-adapter)
+Arduino program under [USB-Gameport_Adapter](https://github.com/necroware/gameport-adapter)
 
 This is a 9 pin Kempston joystick to 15 pin PC GamePort joystick adapter,
 I have built this adapter already in 1993, but only now I made a KiCad plan afterwards.
